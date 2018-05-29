@@ -6,4 +6,3 @@ function isWeekend(){
     return days[day];
 }
 console.log(isWeekend());
-console.log("Welcome");
